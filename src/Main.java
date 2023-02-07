@@ -28,8 +28,6 @@ public class Main {
 //		System.out.println(Arrays.toString(family));
 		Person barrie = new Person("Barrie", 2);
 
-//	Dit is fout:	family[3] = barrie; 
-
 		family = add(barrie, family);
 
 //		System.out.println(Arrays.toString(family));
